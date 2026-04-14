@@ -1,0 +1,3 @@
+// const isClicked =()=>{
+//     return true;
+// }
