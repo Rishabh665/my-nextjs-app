@@ -29,7 +29,7 @@ export default function Home(){
             <Link href={"/mini-projects/todo-app"}>My Todo App</Link>
           </li>
           <li>
-            <Link href={"/mini-projects/simple-dropdown"}>Simple DropDown App</Link>
+            <Link href={"/mini-projects/dropdown"}>Simple DropDown App</Link>
           </li>
         </ol>
       </div>

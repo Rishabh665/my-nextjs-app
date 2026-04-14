@@ -1,8 +1,8 @@
-// import SimpleDropDown from "@/projects/dropdown/simpleDropDown";
+// import SimpleDropDown from "@/projects/dropdown/simpleDropdown";
 // import BasicDropdown from "@/projects/dropdown/basic";
 // import DropDown from "@/projects/dropdown/test";
 
-import NestedDropDown_3Layer from "@/projects/dropdown/nested_3layerDropdown";
+import NestedDropDown from "@/projects/dropdown/nestedDropdown";
 
 export default function DropDownPage(){
     // return <div> <SimpleDropDown/></div>;
@@ -13,8 +13,7 @@ export default function DropDownPage(){
     //     <SimpleDropDown />
     return (
       <>
-        <NestedDropDown_3Layer/>
-        
+        <NestedDropDown />
       </>
     ); 
 }
